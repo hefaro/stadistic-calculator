@@ -5,7 +5,7 @@ const ASSETS = [
   "./style.css",
   "./script.js",
   "./manifest.json",
-  "./icono_Calculadora.png"
+  "./icono_calculadora.png"
 ];
 
 // Instalación
