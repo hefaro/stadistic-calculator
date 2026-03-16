@@ -5,7 +5,7 @@ const assets = [
   './no_agrupados.html',
   './agrupados.html',
   './manifest.json',
-'./icono_Calculadora.jpg',
+'./icono_Calculadora.png',
 './gestion_datos.html',
   'https://cdn.jsdelivr.net/npm/chart.js',
   'https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js'
