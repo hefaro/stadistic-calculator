@@ -1,16 +1,24 @@
 {
-  "name": "Estadística - Narciso Cabal",
-  "short_name": "EstadisticaNCS",
-  "start_url": "index.html",
+  "name": "Calculadora Estadística",
+  "short_name": "Estadística",
+  "description": "Herramienta educativa Narciso Cabal Salcedo",
+  "start_url": "./index.html",
+  "scope": "./",
   "display": "standalone",
-  "background_color": "#f4f7f6",
-  "theme_color": "#1a237e",
-"icons": [
-  {
-    "src": "icono_Calculadora.jpg",
-    "sizes": "512x512",
-    "type": "image/jpg",
-    "purpose": "any maskable"
-  }
-]
+  "background_color": "#ffffff",
+  "theme_color": "#2196f3",
+  "icons": [
+    {
+      "src": "icono_Calculadora.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any"
+    },
+    {
+      "src": "icono_Calculadora.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any"
+    }
+  ]
 }
