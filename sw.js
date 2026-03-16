@@ -1,14 +1,11 @@
 const CACHE_NAME = 'ncs-stat-v2';
-const assets = [
-  './',
-  './index.html',
-  './no_agrupados.html',
-  './agrupados.html',
-  './manifest.json',
-'./icono_Calculadora.png',
-'./gestion_datos.html',
-  'https://cdn.jsdelivr.net/npm/chart.js',
-  'https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js'
+const ASSETS = [
+  "./",
+  "./index.html",
+  "./style.css",
+  "./script.js",
+  "./manifest.json",
+  "./icono_Calculadora.png"
 ];
 
 self.addEventListener('install', e => {
