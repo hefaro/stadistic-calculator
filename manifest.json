@@ -9,15 +9,15 @@
   "theme_color": "#2196f3",
   "icons": [
     {
-      "src": "icono_Calculadora.jpg",
+      "src": "icono_Calculadora.png",
       "sizes": "192x192",
-      "type": "image/jpeg",
+      "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "icono_Calculadora.jpg",
+      "src": "icono_Calculadora.png",
       "sizes": "512x512",
-      "type": "image/jpeg",
+      "type": "image/png",
       "purpose": "any"
     }
   ]
